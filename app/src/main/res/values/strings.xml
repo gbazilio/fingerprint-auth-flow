@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AuthFlowExample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">User</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="touch_hint">Touch to proceed</string>
+    <string name="introduction">App with Sensitive Data</string>
+    <string name="allow_fingerprint">Turn ON/OFF Biometric Login</string>
+    <string name="transfer_info">Transfer Confirmation</string>
+    <string name="transfer_amount">You\'re about to transfer $3,500.00 to <b>Jack Sparrow</b>.</string>
+    <string name="button_confirmation">Ok. That\'s correct!</string>
+</resources>
